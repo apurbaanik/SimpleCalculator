@@ -1,2 +1,2 @@
 # SimpleCalculator
-Calculator using c++
+Calculator using C++
